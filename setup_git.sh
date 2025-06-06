@@ -8,7 +8,7 @@
 
 # --------- CONFIGURAÇÕES INICIAIS (EDITE AQUI) ---------
 
-GIT_NAME="Filipe Marques Hottis"
+GIT_NAME="Coloque seu nome"
 GIT_EMAIL="seuemail@exemplo.com"
 EDITOR_PREFERIDO="nano"
 
