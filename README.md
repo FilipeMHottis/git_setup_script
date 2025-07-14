@@ -17,6 +17,8 @@ Este repositório contém um script em Bash que automatiza a instalação e conf
 
 ## 🚀 Como usar
 
+> **Nota:** Caso você ainda não tenha o Git instalado para clonar este repositório, não se preocupe! Você pode baixar o código-fonte diretamente na seção de [Releases](https://github.com/FilipeMHottis/git_setup_script/releases). O script, ao ser executado, também cuidará da instalação do Git automaticamente.
+
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/git-auto-setup.git
