@@ -21,7 +21,7 @@ Este repositório contém um script em Bash que automatiza a instalação e conf
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/git-auto-setup.git
+   git clone git@github.com:FilipeMHottis/git_setup_script.git
    cd git-auto-setup
    ```
 
